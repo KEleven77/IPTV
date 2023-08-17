@@ -1,0 +1,652 @@
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" tvg-id="CCTV1" tvg-name="CCTV1" group-title="🚤 IPTV6🍓",CCTV1-7.5M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000004000002226/index.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" tvg-id="CCTV1" tvg-name="CCTV1" group-title="🚤 IPTV6🍓",CCTV1-3.5M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000010000030810/index.m3u8?channel-id=bestzb&Contentid=5000000010000030810&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" tvg-id="CCTV1" tvg-name="CCTV1" group-title="🚤 IPTV6🍓",CCTV1-8M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000001000029752/index.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" tvg-id="CCTV1" tvg-name="CCTV1" group-title="🚤 IPTV6🍓",CCTV1-8M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" tvg-id="CCTV1" tvg-name="CCTV1" group-title="🚤 IPTV6🍓",CCTV1-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000021973/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" tvg-id="CCTV2" tvg-name="CCTV2" group-title="🚤 IPTV6🍓",CCTV2-4M540-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000005000031113/index.m3u8?channel-id=bestzb&Contentid=5000000005000031113&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" tvg-id="CCTV2" tvg-name="CCTV2" group-title="🚤 IPTV6🍓",CCTV2-8M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000001000014161/index.m3u8?channel-id=wasusyt&Contentid=6000000001000014161&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" tvg-id="CCTV2" tvg-name="CCTV2" group-title="🚤 IPTV6🍓",CCTV2-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000012442/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" tvg-id="CCTV2" tvg-name="CCTV2" group-title="🚤 IPTV6🍓",CCTV2-8M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000023315/index.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" tvg-id="CCTV3" tvg-name="CCTV3" group-title="🚤 IPTV6🍓",CCTV3-4M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000002000020548/index.m3u8?channel-id=bestzb&Contentid=5000000002000020548&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" tvg-id="CCTV3" tvg-name="CCTV3" group-title="🚤 IPTV6🍓",CCTV3-7M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000004000008883/index.m3u8?channel-id=bestzb&Contentid=5000000004000008883&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" tvg-id="CCTV3" tvg-name="CCTV3" group-title="🚤 IPTV6🍓",CCTV3-8M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000001000022313/index.m3u8?channel-id=wasusyt&Contentid=6000000001000022313&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" tvg-id="CCTV3" tvg-name="CCTV3" group-title="🚤 IPTV6🍓",CCTV3-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000011218/index.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" tvg-id="CCTV3" tvg-name="CCTV3" group-title="🚤 IPTV6🍓",CCTV3-7.7M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000013682/index.m3u8?channel-id=ystenlive&Contentid=1000000001000013682&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" tvg-id="CCTV4" tvg-name="CCTV4" group-title="🚤 IPTV6🍓",CCTV4-4M720-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000005000030093/index.m3u8?channel-id=bestzb&Contentid=5000000005000030093&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" tvg-id="CCTV4" tvg-name="CCTV4" group-title="🚤 IPTV6🍓",CCTV4-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000002000031664/index.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" tvg-id="CCTV5" tvg-name="CCTV5" group-title="🚤 IPTV6🍓",CCTV5-4M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000001000026930/index.m3u8?channel-id=bestzb&Contentid=5000000001000026930&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" tvg-id="CCTV5" tvg-name="CCTV5" group-title="🚤 IPTV6🍓",CCTV5-7M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000004000008885/index.m3u8?channel-id=bestzb&Contentid=5000000004000008885&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" tvg-id="CCTV5" tvg-name="CCTV5" group-title="🚤 IPTV6🍓",CCTV5-4M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000010000016619/index.m3u8?channel-id=bestzb&Contentid=5000000010000016619&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" tvg-id="CCTV5" tvg-name="CCTV5" group-title="🚤 IPTV6🍓",CCTV5-7.7M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000001000016431/index.m3u8?channel-id=wasusyt&Contentid=6000000001000016431&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" tvg-id="CCTV5" tvg-name="CCTV5" group-title="🚤 IPTV6🍓",CCTV5-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000004794/index.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" tvg-id="CCTV5" tvg-name="CCTV5" group-title="🚤 IPTV6🍓",CCTV5-7.7M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000003000030177/index.m3u8?channel-id=ystenlive&Contentid=1000000003000030177&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" tvg-id="CCTV5" tvg-name="CCTV5" group-title="🚤 IPTV6🍓",CCTV5-12M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000005000025222/index.m3u8?channel-id=ystenlive&Contentid=1000000005000025222&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" tvg-id="CCTV5" tvg-name="CCTV5" group-title="🚤 IPTV6🍓",CCTV5+-8M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000001000015875/index.m3u8?channel-id=wasusyt&Contentid=6000000001000015875&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" tvg-id="CCTV5" tvg-name="CCTV5" group-title="🚤 IPTV6🍓",CCTV5+-8M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000018504/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018504&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" tvg-id="CCTV5" tvg-name="CCTV5" group-title="🚤 IPTV6🍓",CCTV5+-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000020505/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" tvg-id="CCTV6" tvg-name="CCTV6" group-title="🚤 IPTV6🍓",CCTV6-7M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000004000008886/index.m3u8?channel-id=bestzb&Contentid=5000000004000008886&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" tvg-id="CCTV6" tvg-name="CCTV6" group-title="🚤 IPTV6🍓",CCTV6-4M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000010000018433/index.m3u8?channel-id=bestzb&Contentid=5000000010000018433&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" tvg-id="CCTV6" tvg-name="CCTV6" group-title="🚤 IPTV6🍓",CCTV6-8M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000001000004574/index.m3u8?channel-id=wasusyt&Contentid=6000000001000004574&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" tvg-id="CCTV6" tvg-name="CCTV6" group-title="🚤 IPTV6🍓",CCTV6-7.7M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000001737/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001737&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" tvg-id="CCTV6" tvg-name="CCTV6" group-title="🚤 IPTV6🍓",CCTV6-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000016466/index.m3u8?channel-id=ystenlive&Contentid=1000000001000016466&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" tvg-id="CCTV7" tvg-name="CCTV7" group-title="🚤 IPTV6🍓",CCTV7-4M720-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000005000026715/index.m3u8?channel-id=bestzb&Contentid=5000000005000026715&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" tvg-id="CCTV7" tvg-name="CCTV7" group-title="🚤 IPTV6🍓",CCTV7-8M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000001000009055/index.m3u8?channel-id=wasusyt&Contentid=6000000001000009055&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" tvg-id="CCTV7" tvg-name="CCTV7" group-title="🚤 IPTV6🍓",CCTV7-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000017218/index.m3u8?channel-id=ystenlive&Contentid=1000000001000017218&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" tvg-id="CCTV7" tvg-name="CCTV7" group-title="🚤 IPTV6🍓",CCTV7-8M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000024341/index.m3u8?channel-id=ystenlive&Contentid=1000000001000024341&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" tvg-id="CCTV8" tvg-name="CCTV8" group-title="🚤 IPTV6🍓",CCTV8-7M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000004000008888/index.m3u8?channel-id=bestzb&Contentid=5000000004000008888&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" tvg-id="CCTV8" tvg-name="CCTV8" group-title="🚤 IPTV6🍓",CCTV8-4M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000010000018377/index.m3u8?channel-id=bestzb&Contentid=5000000010000018377&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" tvg-id="CCTV8" tvg-name="CCTV8" group-title="🚤 IPTV6🍓",CCTV8-8M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000001000001070/index.m3u8?channel-id=wasusyt&Contentid=6000000001000001070&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" tvg-id="CCTV8" tvg-name="CCTV8" group-title="🚤 IPTV6🍓",CCTV8-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000003736/index.m3u8?channel-id=ystenlive&Contentid=1000000001000003736&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" tvg-id="CCTV8" tvg-name="CCTV8" group-title="🚤 IPTV6🍓",CCTV8-8M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000031433/index.m3u8?channel-id=ystenlive&Contentid=1000000001000031433&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" tvg-id="CCTV9" tvg-name="CCTV9" group-title="🚤 IPTV6🍓",CCTV9-1.2M540-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000001000024017/index.m3u8?channel-id=bestzb&Contentid=5000000001000024017&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" tvg-id="CCTV9" tvg-name="CCTV9" group-title="🚤 IPTV6🍓",CCTV9-3.5M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000010000018384/index.m3u8?channel-id=bestzb&Contentid=5000000010000018384&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" tvg-id="CCTV9" tvg-name="CCTV9" group-title="🚤 IPTV6🍓",CCTV9-8M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000001000032162/index.m3u8?channel-id=wasusyt&Contentid=6000000001000032162&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" tvg-id="CCTV9" tvg-name="CCTV9" group-title="🚤 IPTV6🍓",CCTV9-8M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000014583/index.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" tvg-id="CCTV9" tvg-name="CCTV9" group-title="🚤 IPTV6🍓",CCTV9-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000028286/index.m3u8?channel-id=ystenlive&Contentid=1000000001000028286&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" tvg-id="CCTV10" tvg-name="CCTV10" group-title="🚤 IPTV6🍓",CCTV10-8M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000004000012827/index.m3u8?channel-id=bestzb&Contentid=5000000004000012827&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" tvg-id="CCTV10" tvg-name="CCTV10" group-title="🚤 IPTV6🍓",CCTV10-4.5M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000010000016738/index.m3u8?channel-id=bestzb&Contentid=5000000010000016738&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" tvg-id="CCTV10" tvg-name="CCTV10" group-title="🚤 IPTV6🍓",CCTV10-8M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000001000031506/index.m3u8?channel-id=wasusyt&Contentid=6000000001000031506&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" tvg-id="CCTV10" tvg-name="CCTV10" group-title="🚤 IPTV6🍓",CCTV10-8M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000023734/index.m3u8?channel-id=ystenlive&Contentid=1000000001000023734&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" tvg-id="CCTV10" tvg-name="CCTV10" group-title="🚤 IPTV6🍓",CCTV10-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000026367/index.m3u8?channel-id=ystenlive&Contentid=1000000001000026367&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" tvg-id="CCTV11" tvg-name="CCTV11" group-title="🚤 IPTV6🍓",CCTV11-1.2M576-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000006000040011/index.m3u8?channel-id=bestzb&Contentid=5000000006000040011&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" tvg-id="CCTV11" tvg-name="CCTV11" group-title="🚤 IPTV6🍓",CCTV11-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000002000019789/index.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" tvg-id="CCTV12" tvg-name="CCTV12" group-title="🚤 IPTV6🍓",CCTV12-4M540-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000006000040012/index.m3u8?channel-id=bestzb&Contentid=5000000006000040012&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" tvg-id="CCTV12" tvg-name="CCTV12" group-title="🚤 IPTV6🍓",CCTV12-8M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000001000022586/index.m3u8?channel-id=wasusyt&Contentid=6000000001000022586&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" tvg-id="CCTV12" tvg-name="CCTV12" group-title="🚤 IPTV6🍓",CCTV12-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000001640/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001640&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" tvg-id="CCTV12" tvg-name="CCTV12" group-title="🚤 IPTV6🍓",CCTV12-8M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000032494/index.m3u8?channel-id=ystenlive&Contentid=1000000001000032494&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" tvg-id="CCTV13" tvg-name="CCTV13" group-title="🚤 IPTV6🍓",CCTV13-3.5M576-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000005000001827/index.m3u8?channel-id=bestzb&Contentid=5000000005000001827&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" tvg-id="CCTV13" tvg-name="CCTV13" group-title="🚤 IPTV6🍓",CCTV13-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000002000021303/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" tvg-id="CCTV14" tvg-name="CCTV14" group-title="🚤 IPTV6🍓",CCTV14-8.8M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000004000006673/index.m3u8?channel-id=bestzb&Contentid=5000000004000006673&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" tvg-id="CCTV14" tvg-name="CCTV14" group-title="🚤 IPTV6🍓",CCTV14-4M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000010000023358/index.m3u8?channel-id=bestzb&Contentid=5000000010000023358&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" tvg-id="CCTV14" tvg-name="CCTV14" group-title="🚤 IPTV6🍓",CCTV14-7.7M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000001000013647/index.m3u8?channel-id=wasusyt&Contentid=6000000001000013647&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" tvg-id="CCTV14" tvg-name="CCTV14" group-title="🚤 IPTV6🍓",CCTV14-8M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000008170/index.m3u8?channel-id=ystenlive&Contentid=1000000001000008170&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" tvg-id="CCTV14" tvg-name="CCTV14" group-title="🚤 IPTV6🍓",CCTV14-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000021349/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021349&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" tvg-id="CCTV15" tvg-name="CCTV15" group-title="🚤 IPTV6🍓",CCTV15-3.5M576-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000005000018417/index.m3u8?channel-id=bestzb&Contentid=5000000005000018417&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" tvg-id="CCTV15" tvg-name="CCTV15" group-title="🚤 IPTV6🍓",CCTV15-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000002000008163/index.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" tvg-id="CCTV16" tvg-name="CCTV16" group-title="🚤 IPTV6🍓",CCTV16-7M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000008000023253/index.m3u8?channel-id=bestzb&Contentid=5000000008000023253&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" tvg-id="CCTV16" tvg-name="CCTV16" group-title="🚤 IPTV6🍓",CCTV16-4K-12M2160HEVC-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" tvg-id="CCTV17" tvg-name="CCTV17" group-title="🚤 IPTV6🍓",CCTV17-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000005000056836/index.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",CGTN-4M576-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000002000009569/index.m3u8?channel-id=ystenlive&Contentid=1000000002000009569&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",NewTV超级电视剧-2.5M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000008139/index.m3u8?channel-id=ystenlive&Contentid=1000000001000008139&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",NewTV超级电视剧-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000024993/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024993&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",NewTV超级电影-2.5M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000012884/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012884&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",NewTV超级电影-8M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000003000012426/index.m3u8?channel-id=ystenlive&Contentid=1000000003000012426&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",NewTV超级电影-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000002120/index.m3u8?channel-id=ystenlive&Contentid=1000000004000002120&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",NewTV超级体育-2.5M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000009204/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009204&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",NewTV超级体育-8M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000009601/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",NewTV超级体育-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000007755/index.m3u8?channel-id=ystenlive&Contentid=1000000004000007755&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",NewTV超级综艺-2.5M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000025771/index.m3u8?channel-id=ystenlive&Contentid=1000000001000025771&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",NewTV超级综艺-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000023658/index.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",NewTV动作电影-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000018653/index.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",NewTV家庭剧场-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000008284/index.m3u8?channel-id=ystenlive&Contentid=1000000004000008284&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",NewTV金牌综艺-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000026167/index.m3u8?channel-id=ystenlive&Contentid=1000000004000026167&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",NewTV惊悚悬疑-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000024282/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",NewTV精品大剧-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000013968/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013968&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",NewTV精品纪录-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000013730/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013730&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",NewTV精品体育-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000014634/index.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",NewTV魅力潇湘-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000006197/index.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",NewTV明星大片-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000019008/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",NewTV炫舞未来-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000000515/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",SiTV金色学堂-1.2M540-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000010000026105/index.m3u8?channel-id=bestzb&Contentid=5000000010000026105&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",SiTV劲爆体育-4M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",SiTV动漫秀场-2M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000002000023636/index.m3u8?channel-id=bestzb&Contentid=5000000002000023636&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",SiTV都市剧场-4M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000002000004412/index.m3u8?channel-id=bestzb&Contentid=5000000002000004412&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",SiTV欢笑剧场-3M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000002000009455/index.m3u8?channel-id=bestzb&Contentid=5000000002000009455&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",SiTV欢笑剧场-4K-12M2160HEVC-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",SiTV极速汽车-4M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000002000004828/index.m3u8?channel-id=bestzb&Contentid=5000000002000004828&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",SiTV魅力足球-1.2M576-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000010000008656/index.m3u8?channel-id=bestzb&Contentid=5000000010000008656&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",SiTV全纪实-4M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000006000040025/index.m3u8?channel-id=bestzb&Contentid=5000000006000040025&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",SiTV全纪实-1.2M576-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000010000006249/index.m3u8?channel-id=bestzb&Contentid=5000000010000006249&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",SiTV生活时尚-3.5M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000002000019634/index.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",SiTV幸福彩-1.2M576-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000010000004266/index.m3u8?channel-id=bestzb&Contentid=5000000010000004266&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",SiTV游戏风云-2.5M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000002000027005/index.m3u8?channel-id=bestzb&Contentid=5000000002000027005&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",爱电竞-7.2M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",爱谍战-7.2M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000070630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",爱动漫-7.2M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",爱都市-7.2M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000080630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000080630&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",爱怀旧-7.2M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000260630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",爱极限-7.2M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000170630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000170630&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",爱家庭-7.2M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000090630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000090630&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",爱江湖-7.2M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000110630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000110630&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",爱解密-7.2M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000200630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000200630&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",爱经典-7.2M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000060630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",爱科幻-7.2M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",爱科学-7.2M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",爱浪漫-7.2M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000040630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",爱历史-7.2M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000150630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",爱猎奇-7.2M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000190630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000190630&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",爱旅行-7.2M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",爱美食-7.2M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000120630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000120630&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",爱奇谈-7.2M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000270630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",爱青春-7.2M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000100630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",爱赛车-7.2M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000240630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",爱时尚-7.2M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000140630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000140630&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",爱世界-7.2M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000210630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000210630&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",爱探索-7.2M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000300630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000300630&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",爱体育-7.2M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",爱玩具-7.2M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",爱喜剧-7.2M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",爱悬疑-7.2M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",爱幼教-7.2M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",爱娱乐-7.2M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000130630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000130630&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",爱院线-7.2M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",安徽家家购物-2.5M576-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000009000012022/index.m3u8?channel-id=bestzb&Contentid=5000000009000012022&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",安徽卫视-4M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000001000027288/index.m3u8?channel-id=bestzb&Contentid=5000000001000027288&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",安徽卫视-7.5M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000004000023002/index.m3u8?channel-id=bestzb&Contentid=5000000004000023002&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",安徽卫视-8M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000001000009954/index.m3u8?channel-id=wasusyt&Contentid=6000000001000009954&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",安徽卫视-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000020780/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020780&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",安徽卫视-8M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000030159/index.m3u8?channel-id=ystenlive&Contentid=1000000001000030159&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",百视通-4M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000001000001116/index.m3u8?channel-id=bestzb&Contentid=5000000001000001116&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",百视通-4M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000001000002898/index.m3u8?channel-id=bestzb&Contentid=5000000001000002898&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",百视通-4M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000001000004876/index.m3u8?channel-id=bestzb&Contentid=5000000001000004876&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",百视通-4M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000001000006777/index.m3u8?channel-id=bestzb&Contentid=5000000001000006777&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",百视通-3.5M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000001000017342/index.m3u8?channel-id=bestzb&Contentid=5000000001000017342&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",百视通-3.5M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000001000019233/index.m3u8?channel-id=bestzb&Contentid=5000000001000019233&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",百视通-4M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000001000022620/index.m3u8?channel-id=bestzb&Contentid=5000000001000022620&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",百视通-4M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000001000023256/index.m3u8?channel-id=bestzb&Contentid=5000000001000023256&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",百视通直播-4M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000001000004953/index.m3u8?channel-id=bestzb&Contentid=5000000001000004953&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",百视通直播-4M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000001000018009/index.m3u8?channel-id=bestzb&Contentid=5000000001000018009&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",北京东奥纪实-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000028380/index.m3u8?channel-id=ystenlive&Contentid=1000000001000028380&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",北京冬奥纪实-7.7M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000001910/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001910&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",北京家有购物-4M720-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000005000024883/index.m3u8?channel-id=ystenlive&Contentid=1000000005000024883&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",北京卡酷少儿-1.8M576-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000003000002709/index.m3u8?channel-id=wasusyt&Contentid=6000000003000002709&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",北京卡酷少儿-4M576-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000002000002413/index.m3u8?channel-id=ystenlive&Contentid=1000000002000002413&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",北京卫视-8M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000004000031556/index.m3u8?channel-id=bestzb&Contentid=5000000004000031556&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",北京卫视-4M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000010000011502/index.m3u8?channel-id=bestzb&Contentid=5000000010000011502&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",北京卫视-8M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000001000020451/index.m3u8?channel-id=wasusyt&Contentid=6000000001000020451&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",北京卫视-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000017156/index.m3u8?channel-id=ystenlive&Contentid=1000000001000017156&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",北京卫视-8M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000021288/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021288&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",兵团卫视-5M540-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000006000040020/index.m3u8?channel-id=bestzb&Contentid=5000000006000040020&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",纯享4K-17M2160-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",福建东南卫视-4M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000001000005829/index.m3u8?channel-id=bestzb&Contentid=5000000001000005829&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",福建东南卫视-8M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000004000010584/index.m3u8?channel-id=bestzb&Contentid=5000000004000010584&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",福建东南卫视-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000002000009263/index.m3u8?channel-id=ystenlive&Contentid=1000000002000009263&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",甘肃卫视-3.5M540-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000006000040021/index.m3u8?channel-id=bestzb&Contentid=5000000006000040021&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",甘肃卫视-4M576-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000002000017827/index.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",广东嘉佳卡通-1.8M576-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000003000025508/index.m3u8?channel-id=wasusyt&Contentid=6000000003000025508&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",广东嘉佳卡通-4M576-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000002000025964/index.m3u8?channel-id=ystenlive&Contentid=1000000002000025964&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",广东南方卫视-4M576-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000002000011619/index.m3u8?channel-id=ystenlive&Contentid=1000000002000011619&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",广东卫视-8.5M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000004000014694/index.m3u8?channel-id=bestzb&Contentid=5000000004000014694&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",广东卫视-3.5M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000010000030417/index.m3u8?channel-id=bestzb&Contentid=5000000010000030417&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",广东卫视-8M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000001000031076/index.m3u8?channel-id=wasusyt&Contentid=6000000001000031076&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",广东卫视-7.7M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000014176/index.m3u8?channel-id=ystenlive&Contentid=1000000001000014176&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",广东卫视-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000028357/index.m3u8?channel-id=ystenlive&Contentid=1000000001000028357&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",广东珠江-2.5M720-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",广西卫视-5M540-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000006000040014/index.m3u8?channel-id=bestzb&Contentid=5000000006000040014&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",广西卫视-4M576-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000002000019837/index.m3u8?channel-id=ystenlive&Contentid=1000000002000019837&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",贵州卫视-8M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000004000025843/index.m3u8?channel-id=bestzb&Contentid=5000000004000025843&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",贵州卫视-1.5M576-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000028689/index.m3u8?channel-id=ystenlive&Contentid=1000000001000028689&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",贵州卫视-1.5M576-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000029344/index.m3u8?channel-id=ystenlive&Contentid=1000000001000029344&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",贵州卫视-4M576-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000002000003169/index.m3u8?channel-id=ystenlive&Contentid=1000000002000003169&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",海南卫视-8M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000004000006211/index.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",海南卫视-4M576-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000002000023773/index.m3u8?channel-id=ystenlive&Contentid=1000000002000023773&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",河北卫视-10M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000006000040016/index.m3u8?channel-id=bestzb&Contentid=5000000006000040016&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",河北卫视-4M576-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000002000017118/index.m3u8?channel-id=ystenlive&Contentid=1000000002000017118&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",河南卫视-4M720-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000005000017925/index.m3u8?channel-id=bestzb&Contentid=5000000005000017925&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",河南卫视-4M576-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000002000027731/index.m3u8?channel-id=ystenlive&Contentid=1000000002000027731&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",黑龙江卫视-8.5M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000004000025203/index.m3u8?channel-id=bestzb&Contentid=5000000004000025203&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",黑龙江卫视-4M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000010000031107/index.m3u8?channel-id=bestzb&Contentid=5000000010000031107&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",黑龙江卫视-8M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000001000016510/index.m3u8?channel-id=wasusyt&Contentid=6000000001000016510&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",黑龙江卫视-8M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000001925/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001925&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",黑龙江卫视-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000009082/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009082&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",黑莓电竞-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000003775/index.m3u8?channel-id=ystenlive&Contentid=1000000001000003775&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",黑莓电竞-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000006906/index.m3u8?channel-id=ystenlive&Contentid=1000000001000006906&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",黑莓电影-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000019624/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",黑莓动画-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000021734/index.m3u8?channel-id=ystenlive&Contentid=1000000004000021734&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",湖北卫视-7M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000004000014954/index.m3u8?channel-id=bestzb&Contentid=5000000004000014954&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",湖北卫视-4M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000010000022140/index.m3u8?channel-id=bestzb&Contentid=5000000010000022140&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",湖北卫视-8M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000001000015436/index.m3u8?channel-id=wasusyt&Contentid=6000000001000015436&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",湖北卫视-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000010355/index.m3u8?channel-id=ystenlive&Contentid=1000000001000010355&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",湖北卫视-8M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000024621/index.m3u8?channel-id=ystenlive&Contentid=1000000001000024621&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",湖南金鹰纪实-4M576-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000002000011724/index.m3u8?channel-id=ystenlive&Contentid=1000000002000011724&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",湖南金鹰卡通-4M540-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000006000040024/index.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",湖南金鹰卡通-1.8M576-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000003000016791/index.m3u8?channel-id=wasusyt&Contentid=6000000003000016791&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",湖南金鹰卡通-4M576-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000002000016601/index.m3u8?channel-id=ystenlive&Contentid=1000000002000016601&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",湖南卫视-8M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000004000006692/index.m3u8?channel-id=bestzb&Contentid=5000000004000006692&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",湖南卫视-4M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000010000030452/index.m3u8?channel-id=bestzb&Contentid=5000000010000030452&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",湖南卫视-8M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000001000018044/index.m3u8?channel-id=wasusyt&Contentid=6000000001000018044&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",湖南卫视-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000009115/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",湖南卫视-8M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000032695/index.m3u8?channel-id=ystenlive&Contentid=1000000001000032695&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",吉林卫视-4M540-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000006000040013/index.m3u8?channel-id=bestzb&Contentid=5000000006000040013&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",吉林卫视-4M576-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000002000027730/index.m3u8?channel-id=ystenlive&Contentid=1000000002000027730&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",江苏好享购物-2.5M576-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000003000008938/index.m3u8?channel-id=bestzb&Contentid=5000000003000008938&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",江苏卫视-7.5M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000004000019351/index.m3u8?channel-id=bestzb&Contentid=5000000004000019351&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",江苏卫视-4.5M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000010000018509/index.m3u8?channel-id=bestzb&Contentid=5000000010000018509&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",江苏卫视-8M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000001000014861/index.m3u8?channel-id=wasusyt&Contentid=6000000001000014861&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",江苏卫视-8M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000001828/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001828&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",江苏卫视-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000004684/index.m3u8?channel-id=ystenlive&Contentid=1000000001000004684&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",江苏优漫卡通-1.8M576-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000003000030492/index.m3u8?channel-id=wasusyt&Contentid=6000000003000030492&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",江苏优漫卡通-4M576-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000002000010063/index.m3u8?channel-id=ystenlive&Contentid=1000000002000010063&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",江西陶瓷-7M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000007000010002/index.m3u8?channel-id=bestzb&Contentid=5000000007000010002&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",江西卫视-4M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000001000032154/index.m3u8?channel-id=bestzb&Contentid=5000000001000032154&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",江西卫视-7M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000004000011210/index.m3u8?channel-id=bestzb&Contentid=5000000004000011210&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",江西卫视-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000013731/index.m3u8?channel-id=ystenlive&Contentid=1000000001000013731&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",精彩影视-7.6M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",九宫格-720-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000004000010702/index.m3u8?channel-id=wasusyt&Contentid=6000000004000010702&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",聚鲨环球精选-1.8M576-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000004000014516/index.m3u8?channel-id=wasusyt&Contentid=6000000004000014516&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",聚鲨环球精选-4M576-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000005000003651/index.m3u8?channel-id=ystenlive&Contentid=1000000005000003651&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",辽宁卫视-5M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000001000008940/index.m3u8?channel-id=bestzb&Contentid=5000000001000008940&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",辽宁卫视-10M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000004000011671/index.m3u8?channel-id=bestzb&Contentid=5000000004000011671&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",辽宁卫视-7.7M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000001945/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001945&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",辽宁卫视-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000002000024033/index.m3u8?channel-id=ystenlive&Contentid=1000000002000024033&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",内蒙古卫视-4M576-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000002000014080/index.m3u8?channel-id=ystenlive&Contentid=1000000002000014080&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",宁夏卫视-4M540-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000006000040022/index.m3u8?channel-id=bestzb&Contentid=5000000006000040022&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",宁夏卫视-4M576-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000002000031451/index.m3u8?channel-id=ystenlive&Contentid=1000000002000031451&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",青海安多卫视-2.5M576-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000006000022124/index.m3u8?channel-id=bestzb&Contentid=5000000006000022124&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",青海果洛电视台-7M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000002589/index.m3u8?channel-id=ystenlive&Contentid=1000000004000002589&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",青海海南藏语-3.5M576-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000005000025334/index.m3u8?channel-id=ystenlive&Contentid=1000000005000025334&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",青海黄南综合-7.5M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000006000027378/index.m3u8?channel-id=ystenlive&Contentid=1000000006000027378&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",青海卫视-5M540-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000006000040015/index.m3u8?channel-id=bestzb&Contentid=5000000006000040015&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",青海卫视-4M576-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000002000013359/index.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",求索动物-8M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",求索纪录-8M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",求索科学-8M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",求索生活-8M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",山东教育卫视-4M576-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000002000004097/index.m3u8?channel-id=ystenlive&Contentid=1000000002000004097&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",山东卫视-7M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000004000020424/index.m3u8?channel-id=bestzb&Contentid=5000000004000020424&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",山东卫视-4M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000010000027763/index.m3u8?channel-id=bestzb&Contentid=5000000010000027763&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",山东卫视-8M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000001000004134/index.m3u8?channel-id=wasusyt&Contentid=6000000001000004134&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",山东卫视-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000012807/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012807&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",山东卫视-7.5M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000016568/index.m3u8?channel-id=ystenlive&Contentid=1000000001000016568&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",山西卫视-4M540-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000006000040023/index.m3u8?channel-id=bestzb&Contentid=5000000006000040023&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",山西卫视-4M576-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000002000021220/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021220&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",山西优购物-2.5M576-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000009000012023/index.m3u8?channel-id=bestzb&Contentid=5000000009000012023&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",山西优购物-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000005000004811/index.m3u8?channel-id=ystenlive&Contentid=1000000005000004811&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",陕西卫视-4M540-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000006000040017/index.m3u8?channel-id=bestzb&Contentid=5000000006000040017&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",陕西卫视-4M576-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000002000007495/index.m3u8?channel-id=ystenlive&Contentid=1000000002000007495&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",上海ICS外语-4M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000010000030951/index.m3u8?channel-id=bestzb&Contentid=5000000010000030951&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",上海第一财经-4M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",上海东方卫视-8M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000004000014098/index.m3u8?channel-id=bestzb&Contentid=5000000004000014098&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",上海东方卫视-4M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000010000032246/index.m3u8?channel-id=bestzb&Contentid=5000000010000032246&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",上海东方卫视-7.7M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000001000003639/index.m3u8?channel-id=wasusyt&Contentid=6000000001000003639&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",上海东方卫视-8M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000005866/index.m3u8?channel-id=ystenlive&Contentid=1000000001000005866&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",上海东方卫视-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000030202/index.m3u8?channel-id=ystenlive&Contentid=1000000001000030202&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",上海东方影视-3.5M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000010000032212/index.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",上海都市-4M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000010000018926/index.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",上海哈哈炫动-4M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000005000031641/index.m3u8?channel-id=bestzb&Contentid=5000000005000031641&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",上海哈哈炫动-4M576-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000002000000172/index.m3u8?channel-id=ystenlive&Contentid=1000000002000000172&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",上海纪实人文-4M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000001000021713/index.m3u8?channel-id=bestzb&Contentid=5000000001000021713&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",上海纪实人文-7M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000004000010282/index.m3u8?channel-id=bestzb&Contentid=5000000004000010282&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",上海纪实人文-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000010606/index.m3u8?channel-id=ystenlive&Contentid=1000000001000010606&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",上海纪实人文-7.7M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000016545/index.m3u8?channel-id=ystenlive&Contentid=1000000001000016545&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",上海空中课堂·八年级-1.2M540-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000006000030008/index.m3u8?channel-id=bestzb&Contentid=5000000006000030008&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",上海空中课堂·二年级-1.2M540-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000006000030002/index.m3u8?channel-id=bestzb&Contentid=5000000006000030002&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",上海空中课堂·高二年级-1.2M540-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000006000030011/index.m3u8?channel-id=bestzb&Contentid=5000000006000030011&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",上海空中课堂·高三年级-1.2M540-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000006000030012/index.m3u8?channel-id=bestzb&Contentid=5000000006000030012&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",上海空中课堂·高一年级-1.2M540-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000006000030010/index.m3u8?channel-id=bestzb&Contentid=5000000006000030010&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",上海空中课堂·九年级-1.2M540-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000006000030009/index.m3u8?channel-id=bestzb&Contentid=5000000006000030009&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",上海空中课堂·六年级-1.2M540-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000006000030006/index.m3u8?channel-id=bestzb&Contentid=5000000006000030006&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",上海空中课堂·七年级-1.2M540-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000006000030007/index.m3u8?channel-id=bestzb&Contentid=5000000006000030007&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",上海空中课堂·三年级-1.2M540-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000006000030003/index.m3u8?channel-id=bestzb&Contentid=5000000006000030003&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",上海空中课堂·四年级-1.2M540-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000006000030004/index.m3u8?channel-id=bestzb&Contentid=5000000006000030004&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",上海空中课堂·五年级-1.2M540-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000006000030005/index.m3u8?channel-id=bestzb&Contentid=5000000006000030005&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",上海空中课堂·一年级-1.2M540-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000006000030001/index.m3u8?channel-id=bestzb&Contentid=5000000006000030001&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",上海五星体育-4M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",深圳卫视-8M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000004000007410/index.m3u8?channel-id=bestzb&Contentid=5000000004000007410&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",深圳卫视-4M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000010000024026/index.m3u8?channel-id=bestzb&Contentid=5000000010000024026&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",深圳卫视-8M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000001000002116/index.m3u8?channel-id=wasusyt&Contentid=6000000001000002116&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",深圳卫视-7.7M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000009227/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009227&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",深圳卫视-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000011645/index.m3u8?channel-id=ystenlive&Contentid=1000000001000011645&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",四川康巴卫视-2.5M576-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000003000001598/index.m3u8?channel-id=bestzb&Contentid=5000000003000001598&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",四川卫视-8M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000004000006119/index.m3u8?channel-id=bestzb&Contentid=5000000004000006119&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",四川卫视-4M576-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000002000016825/index.m3u8?channel-id=ystenlive&Contentid=1000000002000016825&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",天津卫视-4M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000001000030788/index.m3u8?channel-id=bestzb&Contentid=5000000001000030788&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",天津卫视-8M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000004000006827/index.m3u8?channel-id=bestzb&Contentid=5000000004000006827&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",天津卫视-8M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000001000009186/index.m3u8?channel-id=wasusyt&Contentid=6000000001000009186&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",天津卫视-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000000831/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000831&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",天津卫视-8M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000003475/index.m3u8?channel-id=ystenlive&Contentid=1000000001000003475&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",未知3D左右画面频道-3.2M720-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000003000000558/index.m3u8?channel-id=wasusyt&Contentid=6000000003000000558&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",未知4K-16M2160-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",未知电竞频道-2.8M720-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000003000011654/index.m3u8?channel-id=wasusyt&Contentid=6000000003000011654&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",未知课堂频道-1.4M576-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000003000023702/index.m3u8?channel-id=wasusyt&Contentid=6000000003000023702&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",未知综艺频道-2.8M720-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000003000001569/index.m3u8?channel-id=wasusyt&Contentid=6000000003000001569&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",西藏藏语卫视-2.5M576-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000002000021549/index.m3u8?channel-id=bestzb&Contentid=5000000002000021549&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",西藏卫视-4M576-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000002000015894/index.m3u8?channel-id=ystenlive&Contentid=1000000002000015894&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",新疆卫视-4M540-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000006000040018/index.m3u8?channel-id=bestzb&Contentid=5000000006000040018&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",新疆卫视-4M576-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000002000029441/index.m3u8?channel-id=ystenlive&Contentid=1000000002000029441&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",央广购物-2.5M576-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000009000012021/index.m3u8?channel-id=bestzb&Contentid=5000000009000012021&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",央广购物-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000005000018408/index.m3u8?channel-id=ystenlive&Contentid=1000000005000018408&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",云南卫视-4M540-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000006000040019/index.m3u8?channel-id=bestzb&Contentid=5000000006000040019&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",云南卫视-4M576-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000002000024694/index.m3u8?channel-id=ystenlive&Contentid=1000000002000024694&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",展翅翱翔-3.2M720-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000003000028434/index.m3u8?channel-id=wasusyt&Contentid=6000000003000028434&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",浙江卫视-7.7M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000004000007275/index.m3u8?channel-id=bestzb&Contentid=5000000004000007275&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",浙江卫视-4M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000010000017320/index.m3u8?channel-id=bestzb&Contentid=5000000010000017320&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",浙江卫视-8M1080-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000001000032070/index.m3u8?channel-id=wasusyt&Contentid=6000000001000032070&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",浙江卫视-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000009806/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009806&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",浙江卫视-8M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000014260/index.m3u8?channel-id=ystenlive&Contentid=1000000001000014260&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",中国教育1-4M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000002000002652/index.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",中国教育1-1.8M576-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000003000018981/index.m3u8?channel-id=wasusyt&Contentid=6000000003000018981&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",中国教育1-4M576-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000002000027253/index.m3u8?channel-id=ystenlive&Contentid=1000000002000027253&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",中国教育4-2.5M576-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000006000012123/index.m3u8?channel-id=bestzb&Contentid=5000000006000012123&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",中国教育4-1.8M576-华数
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000005000042312/index.m3u8?channel-id=wasusyt&Contentid=6000000005000042312&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",中国教育4-4M576-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000005000025333/index.m3u8?channel-id=ystenlive&Contentid=1000000005000025333&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",中国天气-1.2M576-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000005000031974/index.m3u8?channel-id=bestzb&Contentid=5000000005000031974&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",重庆卫视-7M1080-百视通
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000004000025797/index.m3u8?channel-id=bestzb&Contentid=5000000004000025797&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",重庆卫视-8M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000001096/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001096&livemode=1&stbId=3
+#EXTINF:-1,group-title="🚤 IPTV6🍓",重庆卫视-4M1080-易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000002000018937/index.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=3
