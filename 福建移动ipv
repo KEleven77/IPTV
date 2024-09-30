@@ -1,171 +1,258 @@
-#EXTM3U
-#EXTINF:-1,CCTV-1 综合 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225922/index.m3u8
-#EXTINF:-1,CCTV-2 财经 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225923/index.m3u8
-#EXTINF:-1,CCTV-3 综艺 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227055/index.m3u8
-#EXTINF:-1,CCTV-4 中文国际 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226968/index.m3u8
-#EXTINF:-1,CCTV-5 体育 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227170/index.m3u8
-#EXTINF:-1,CCTV-5⁺ 体育赛事 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225939/index.m3u8
-#EXTINF:-1,CCTV-6 电影 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227137/index.m3u8
-#EXTINF:-1,CCTV-7 国防军事 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225927/index.m3u8
-#EXTINF:-1,CCTV-8 电视剧 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8
-#EXTINF:-1,CCTV-9 纪录 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225929/index.m3u8
-#EXTINF:-1,CCTV-10 科教 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225931/index.m3u8
-#EXTINF:-1,CCTV-11 戏曲 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225815/index.m3u8
-#EXTINF:-1,CCTV-12 社会与法 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225932/index.m3u8
-#EXTINF:-1,CCTV-13 新闻 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
-#EXTINF:-1,CCTV-14 少儿 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225933/index.m3u8
-#EXTINF:-1,CCTV-15 音乐 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225818/index.m3u8
-#EXTINF:-1,CCTV-16 奥林匹克 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227125/index.m3u8
-#EXTINF:-1,CCTV-16 奥林匹克 4K超高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227162/index.m3u8
-#EXTINF:-1,CCTV-17 农业农村 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226986/index.m3u8
-#EXTINF:-1,CCTV-4K 4K超高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8
-#EXTINF:-1,CETV-1 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227067/index.m3u8
-#EXTINF:-1,凤凰中文 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227222/index.m3u8
-#EXTINF:-1,凤凰资讯 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227226/index.m3u8
-#EXTINF:-1,广西卫视 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227250/index.m3u8
-#EXTINF:-1,广东卫视 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227164/index.m3u8
-#EXTINF:-1,辽宁卫视 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227141/index.m3u8
-#EXTINF:-1,吉林卫视 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227099/index.m3u8
-#EXTINF:-1,安徽卫视 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227178/index.m3u8
-#EXTINF:-1,山东卫视 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227236/index.m3u8
-#EXTINF:-1,河北卫视 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227063/index.m3u8
-#EXTINF:-1,河南卫视 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227095/index.m3u8
-#EXTINF:-1,湖北卫视 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227111/index.m3u8
-#EXTINF:-1,湖南卫视 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227232/index.m3u8
-#EXTINF:-1,浙江卫视 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225870/index.m3u8
-#EXTINF:-1,云南卫视 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227181/index.m3u8
-#EXTINF:-1,甘肃卫视 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227262/index.m3u8
-#EXTINF:-1,贵州卫视 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227201/index.m3u8
-#EXTINF:-1,四川卫视 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227182/index.m3u8
-#EXTINF:-1,重庆卫视 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227240/index.m3u8
-#EXTINF:-1,北京卫视 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227246/index.m3u8
-#EXTINF:-1,冬奥纪实 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225944/index.m3u8
-#EXTINF:-1,天津卫视 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227205/index.m3u8
-#EXTINF:-1,深圳卫视 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227242/index.m3u8
-#EXTINF:-1,江苏卫视 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227160/index.m3u8
-#EXTINF:-1,江西卫视 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227209/index.m3u8
-#EXTINF:-1,海南卫视 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227216/index.m3u8
-#EXTINF:-1,海峡卫视 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227198/index.m3u8
-#EXTINF:-1,厦门卫视 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226781/index.m3u8
-#EXTINF:-1,东方卫视 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227059/index.m3u8
-#EXTINF:-1,东南卫视 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227156/index.m3u8
-#EXTINF:-1,黑龙江卫视 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227197/index.m3u8
-#EXTINF:-1,福建综合 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227149/index.m3u8
-#EXTINF:-1,福建新闻 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227180/index.m3u8
-#EXTINF:-1,福建经济 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227184/index.m3u8
-#EXTINF:-1,福建少儿 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227194/index.m3u8
-#EXTINF:-1,福建旅游 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u8
-#EXTINF:-1,福建公共 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227153/index.m3u8
-#EXTINF:-1,福建文体 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227188/index.m3u8
-#EXTINF:-1,福建教育 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227202/index.m3u8
-#EXTINF:-1,福建电视剧 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227079/index.m3u8
-#EXTINF:-1,宁德新闻综合 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227196/index.m3u8
-#EXTINF:-1,龙岩综合 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227200/index.m3u8
-#EXTINF:-1,厦门-1 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227185/index.m3u8
-#EXTINF:-1,厦门-2 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226777/index.m3u8
-#EXTINF:-1,厦门-3 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226760/index.m3u8
-#EXTINF:-1,南平-1 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227066/index.m3u8
-#EXTINF:-1,南平-2 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226956/index.m3u8
-#EXTINF:-1,乐游 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227083/index.m3u8
-#EXTINF:-1,陶瓷 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227234/index.m3u8
-#EXTINF:-1,纪实人文 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225946/index.m3u8
-#EXTINF:-1,金鹰纪实 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226937/index.m3u8
-#EXTINF:-1,金鹰卡通 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227018/index.m3u8
-#EXTINF:-1,快乐垂钓 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227028/index.m3u8
-#EXTINF:-1,黑莓电影 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225891/index.m3u8
-#EXTINF:-1,黑莓动画 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225878/index.m3u8
-#EXTINF:-1,第一财经 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226564/index.m3u8
-#EXTINF:-1,动漫秀场 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227071/index.m3u8
-#EXTINF:-1,生活时尚 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227091/index.m3u8
-#EXTINF:-1,欢笑剧场 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227145/index.m3u8
-#EXTINF:-1,都市剧场 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227204/index.m3u8
-#EXTINF:-1,游戏风云 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227075/index.m3u8
-#EXTINF:-1,极速汽车 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227186/index.m3u8
-#EXTINF:-1,哒啵赛事 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226676/index.m3u8
-#EXTINF:-1,哒啵电竞 高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227252/index.m3u8
-#EXTINF:-1,4KUHD 4K超高清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
+#EXTM3U url-tvg="https://live.fanmingming.com/e.xml"
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE local
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/福建综合.png" group-title="福建频道",福建综合	超清
+http://112.50.243.8/PLTV/88888888/224/3221227149/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="福建频道",东南卫视	超清
+http://112.50.243.8/PLTV/88888888/224/3221227156/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/福建公共.png" group-title="福建频道",福建公共	超清
+http://112.50.243.8/PLTV/88888888/224/3221227153/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/福建新闻.png" group-title="福建频道",福建新闻	超清
+http://112.50.243.8/PLTV/88888888/224/3221227180/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/福建电视剧.png" group-title="福建频道",福建电视剧	超清
+http://112.50.243.8/PLTV/88888888/224/3221227079/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/福建旅游.png" group-title="福建频道",福建旅游	超清
+http://112.50.243.8/PLTV/88888888/224/3221227190/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/福建经济.png" group-title="福建频道",福建经济	超清
+http://112.50.243.8/PLTV/88888888/224/3221227184/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/福建文体.png" group-title="福建频道",福建文体	超清
+http://112.50.243.8/PLTV/88888888/224/3221227188/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/福建少儿.png" group-title="福建频道",福建少儿	超清
+http://112.50.243.8/PLTV/88888888/224/3221227194/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/海峡卫视.png" group-title="福建频道",海峡卫视	超清
+http://112.50.243.8/PLTV/88888888/224/3221227198/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/福建教育.png" group-title="福建频道",福建教育	超清
+http://112.50.243.8/PLTV/88888888/224/3221227202/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="福建频道",厦门卫视	超清
+http://112.50.243.8/PLTV/88888888/224/3221226781/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/厦门1.png" group-title="福建频道",厦门1	超清
+http://112.50.243.8/PLTV/88888888/224/3221226814/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/厦门2.png" group-title="福建频道",厦门2	超清
+http://112.50.243.8/PLTV/88888888/224/3221226777/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/厦门3.png" group-title="福建频道",厦门3	超清
+http://112.50.243.8/PLTV/88888888/224/3221226760/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV1	超清
+http://112.50.243.8/PLTV/88888888/224/3221226908/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV2	超清
+http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道",CCTV3	超清
+http://112.50.243.8/PLTV/88888888/224/3221227055/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV4	超清
+http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV5	超清
+http://112.50.243.8/PLTV/88888888/224/3221227170/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV6	超清
+http://112.50.243.8/PLTV/88888888/224/3221227137/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视频道",CCTV7	超清
+http://112.50.243.8/PLTV/88888888/224/3221225927/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道",CCTV8	超清
+http://112.50.243.8/PLTV/88888888/224/3221227174/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视频道",CCTV9	超清
+http://112.50.243.8/PLTV/88888888/224/3221225929/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视频道",CCTV10	超清
+http://112.50.243.8/PLTV/88888888/224/3221225931/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视频道",CCTV11	超清
+http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视频道",CCTV12	超清
+http://112.50.243.8/PLTV/88888888/224/3221225932/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道",CCTV13	超清
+http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视频道",CCTV14	超清
+http://112.50.243.8/PLTV/88888888/224/3221225933/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道",CCTV15	超清
+http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV16	超清
+http://112.50.243.8/PLTV/88888888/224/3221227125/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV17	超清
+http://112.50.243.8/PLTV/88888888/224/3221226986/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV5+	超清
+http://112.50.243.8/PLTV/88888888/224/3221225939/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV16 4K
+http://112.50.243.8/PLTV/88888888/224/3221227162/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CGTN英语.png" group-title="央视频道",CGTN 英语	普通
+http://112.50.243.8/PLTV/88888888/224/3221225822/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CGTN记录.png" group-title="央视频道",CGTN 纪录	普通
+http://112.50.243.8/PLTV/88888888/224/3221225813/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="央视频道",CGTN 俄语	普通
+http://112.50.243.8/PLTV/88888888/224/3221227103/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="央视频道",CGTN 法语	普通
+http://112.50.243.8/PLTV/88888888/224/3221227220/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="央视频道",CGTN 西语	普通
+http://112.50.243.8/PLTV/88888888/224/3221227238/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视频道",CGTN 阿语	普通
+http://112.50.243.8/PLTV/88888888/224/3221227224/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视频道",东方卫视	超清
+http://112.50.243.8/PLTV/88888888/224/3221227059/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视频道",湖南卫视	超清
+http://112.50.243.8/PLTV/88888888/224/3221227232/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视频道",江苏卫视	超清
+http://112.50.243.8/PLTV/88888888/224/3221227160/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视频道",浙江卫视	超清
+http://112.50.243.8/PLTV/88888888/224/3221225825/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视频道",河北卫视	超清
+http://112.50.243.8/PLTV/88888888/224/3221227063/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视频道",广东卫视	超清
+http://112.50.243.8/PLTV/88888888/224/3221227164/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视频道",山东卫视	超清
+http://112.50.243.8/PLTV/88888888/224/3221227236/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视频道",湖北卫视	超清
+http://112.50.243.8/PLTV/88888888/224/3221227111/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视频道",深圳卫视	超清
+http://112.50.243.8/PLTV/88888888/224/3221227242/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视	超清
+http://112.50.243.8/PLTV/88888888/224/3221227197/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="卫视频道",贵州卫视	超清
+http://112.50.243.8/PLTV/88888888/224/3221227201/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视频道",安徽卫视	超清
+http://112.50.243.8/PLTV/88888888/224/3221227178/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视频道",天津卫视	超清
+http://112.50.243.8/PLTV/88888888/224/3221227205/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视频道",四川卫视	超清
+http://112.50.243.8/PLTV/88888888/224/3221227182/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="卫视频道",江西卫视	超清
+http://112.50.243.8/PLTV/88888888/224/3221227209/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视	超清
+http://112.50.243.8/PLTV/88888888/224/3221227141/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视频道",重庆卫视	超清
+http://112.50.243.8/PLTV/88888888/224/3221227240/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视	超清
+http://112.50.243.8/PLTV/88888888/224/3221227246/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="卫视频道",云南卫视	超清
+http://112.50.243.8/PLTV/88888888/224/3221227181/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="卫视频道",河南卫视	超清
+http://112.50.243.8/PLTV/88888888/224/3221227095/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视频道",海南卫视	超清
+http://112.50.243.8/PLTV/88888888/224/3221227216/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视频道",广西卫视	超清
+http://112.50.243.8/PLTV/88888888/224/3221227250/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视频道",陕西卫视	普通
+http://112.50.243.8/PLTV/88888888/224/3221225850/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="卫视频道",青海卫视	超清
+http://112.50.243.8/PLTV/88888888/224/3221225841/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视	普通
+http://112.50.243.8/PLTV/88888888/224/3221227254/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="卫视频道",吉林卫视	超清
+http://112.50.243.8/PLTV/88888888/224/3221227099/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视频道",山西卫视	普通
+http://112.50.243.8/PLTV/88888888/224/3221227258/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视	超清
+http://112.50.243.8/PLTV/88888888/224/3221227262/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视	普通
+http://112.50.243.8/PLTV/88888888/224/3221227244/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="卫视频道",新疆卫视	普通
+http://112.50.243.8/PLTV/88888888/224/3221227248/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="卫视频道",兵团卫视	普通
+http://112.50.243.8/PLTV/88888888/224/3221227168/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="卫视频道",西藏卫视	普通
+http://112.50.243.8/PLTV/88888888/224/3221227217/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="卫视频道",大湾区卫视	普通
+http://112.50.243.8/PLTV/88888888/224/3221227214/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="卫视频道",三沙卫视	超清
+http://112.50.243.8/PLTV/88888888/224/3221227172/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/康巴卫视.png" group-title="卫视频道",康巴卫视	普通
+http://112.50.243.8/PLTV/88888888/224/3221225856/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="港澳台频道",凤凰中文	超清
+http://112.50.243.8/PLTV/88888888/224/3221227222/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="港澳台频道",凤凰资讯	超清
+http://112.50.243.8/PLTV/88888888/224/3221227226/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="其他频道",CETV1	超清
+http://112.50.243.8/PLTV/88888888/224/3221227067/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="其他频道",CETV2	普通
+http://112.50.243.8/PLTV/88888888/224/3221227206/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="其他频道",CETV4	超清
+http://112.50.243.8/PLTV/88888888/224/3221227192/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="其他频道",金鹰卡通	超清
+http://112.50.243.8/PLTV/88888888/224/3221227018/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="其他频道",卡酷少儿	普通
+http://112.50.243.8/PLTV/88888888/224/3221225871/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="其他频道",哈哈炫动	普通
+http://112.50.243.8/PLTV/88888888/224/3221225872/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="其他频道",动漫秀场	超清
+http://112.50.243.8/PLTV/88888888/224/3221227071/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="其他频道",嘉佳卡通	普通
+http://112.50.243.8/PLTV/88888888/224/3221227230/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="其他频道",优漫卡通	普通
+http://112.50.243.8/PLTV/88888888/224/3221225874/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="其他频道",游戏风云	超清
+http://112.50.243.8/PLTV/88888888/224/3221227075/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="其他频道",乐游	超清
+http://112.50.243.8/PLTV/88888888/224/3221227083/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="其他频道",纪实人文	超清
+http://112.50.243.8/PLTV/88888888/224/3221225946/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="其他频道",中国天气	普通
+http://112.50.243.8/PLTV/88888888/224/3221227210/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/冬奥纪实.png" group-title="其他频道",冬奥纪实	超清
+http://112.50.243.8/PLTV/88888888/224/3221225944/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="其他频道",金鹰纪实	超清
+http://112.50.243.8/PLTV/88888888/224/3221226937/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="其他频道",欢笑剧场	超清
+http://112.50.243.8/PLTV/88888888/224/3221227145/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="其他频道",都市剧场	超清
+http://112.50.243.8/PLTV/88888888/224/3221227204/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="其他频道",法治天地	普通
+http://112.50.243.8/PLTV/88888888/224/3221227176/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="其他频道",东方财经	超清
+http://112.50.243.8/PLTV/88888888/224/3221227087/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="其他频道",金色学堂	超清
+http://112.50.243.8/PLTV/88888888/224/3221227208/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="其他频道",快乐垂钓	超清
+http://112.50.243.8/PLTV/88888888/224/3221226940/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="其他频道",生活时尚	超清
+http://112.50.243.8/PLTV/88888888/224/3221227091/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/先锋乒羽.png" group-title="其他频道",先锋乒羽	普通
+http://112.50.243.8/PLTV/88888888/224/3221226851/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/茶频道.png" group-title="其他频道",茶频道	普通
+http://112.50.243.8/PLTV/88888888/224/3221226859/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/山东教育.png" group-title="其他频道",山东教育	普通
+http://112.50.243.8/PLTV/88888888/224/3221225873/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="其他频道",黑莓电影	超清
+http://112.50.243.8/PLTV/88888888/224/3221225891/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="其他频道",黑莓动画	超清
+http://112.50.243.8/PLTV/88888888/224/3221225878/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/,哒啵赛事.png" group-title="其他频道",哒啵赛事	超清
+http://112.50.243.8/PLTV/88888888/224/3221225894/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/哒啵电竞.png" group-title="其他频道",哒啵电竞	超清
+http://112.50.243.8/PLTV/88888888/224/3221227252/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/分屏预览.png" group-title="其他频道",分屏预览	超清
+http://112.50.243.8/PLTV/88888888/224/3221226664/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="其他频道",纯享4K	4K
+http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/芒果TV.png" group-title="其他频道",芒果TV	4K
+http://112.50.243.8/PLTV/88888888/224/3221226887/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/NEWTV潮妈辣婆.png" group-title="NewTV",NewTV潮妈辣婆	超清
+http://112.50.243.8/PLTV/88888888/224/3221226107/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/NEWTV爱情喜剧.png" group-title="NewTV",NewTV爱情喜剧	超清
+http://112.50.243.8/PLTV/88888888/224/3221225877/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/NEWTV动作电影.png" group-title="NewTV",NewTV动作电影	超清
+http://112.50.243.8/PLTV/88888888/224/3221225879/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/NEWTV古装剧场.png" group-title="NewTV",NewTV古装剧场	超清
+http://112.50.243.8/PLTV/88888888/224/3221225880/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/NEWTV武搏世界.png" group-title="NewTV",NewTV武搏世界	超清
+http://112.50.243.8/PLTV/88888888/224/3221225881/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/NewTV家庭剧场.png" group-title="NewTV",NewTV家庭剧场	超清
+http://112.50.243.8/PLTV/88888888/224/3221225882/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/NewTV怡伴健康.png" group-title="NewTV",NewTV怡伴健康	超清
+http://112.50.243.8/PLTV/88888888/224/3221225883/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/NewTV金牌综艺.png" group-title="NewTV",NewTV金牌综艺	超清
+http://112.50.243.8/PLTV/88888888/224/3221225884/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/NewTV惊悚悬疑.png" group-title="NewTV",NewTV惊悚悬疑	超清
+http://112.50.243.8/PLTV/88888888/224/3221225885/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/NewTV精品体育.png" group-title="NewTV",NewTV精品体育	超清
+http://112.50.243.8/PLTV/88888888/224/3221225886/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/NewTV军旅剧场.png" group-title="NewTV",NewTV军旅剧场	超清
+http://112.50.243.8/PLTV/88888888/224/3221225887/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/NewTV精品纪录.png" group-title="NewTV",NewTV精品纪录	超清
+http://112.50.243.8/PLTV/88888888/224/3221225888/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/NewTV精品大剧.png" group-title="NewTV",NewTV精品大剧	超清
+http://112.50.243.8/PLTV/88888888/224/3221225889/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/NewTV军事评论.png" group-title="NewTV",NewTV军事评论	超清
+http://112.50.243.8/PLTV/88888888/224/3221225890/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/NewTV明星大片.png" group-title="NewTV",NewTV明星大片	超清
+http://112.50.243.8/PLTV/88888888/224/3221225893/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/NEWTV中国功夫.png" group-title="NewTV",NewTV中国功夫	超清
+http://112.50.243.8/PLTV/88888888/224/3221225896/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/NewTV炫舞未来.png" group-title="NewTV",NewTV炫舞未来	超清
+http://112.50.243.8/PLTV/88888888/224/3221226699/1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/NewTV精品萌宠.png" group-title="NewTV",NewTV精品萌宠	超清
+http://112.50.243.8/PLTV/88888888/224/3221227183/1.m3u8
